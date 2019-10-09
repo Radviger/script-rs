@@ -1,0 +1,18 @@
+fn my_value(a) -> i64 {
+    a
+}
+
+let a = 1.0;
+//let c = &mut a;
+
+let six: i64 = (2 + 2 * 2);
+
+(a / 3.0) as f64
+
+fn div(a: f64, b: f64) -> f64 {
+
+}
+
+fn div(a, b: f64) -> f64 {
+    a / b
+}
